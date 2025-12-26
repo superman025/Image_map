@@ -1,4 +1,5 @@
-# Ex04 Places Around Me
+
+1# Ex04 Places Around Me
 ## Date: 16.12.2025
 
 ## AIM
@@ -47,14 +48,8 @@ Execute the programs and publish them.
 
 
 ## Output
-![alt text](map.png-1.png)
-![alt text](kutham.png.png)
-![alt text](parvarajapuram.png.png)
-![alt text](st.john.png.png)
-
-
-
-
-
+<img width="1920" height="1080" alt="kutham png" src="https://github.com/user-attachments/assets/f558e28b-bb6a-41a8-b66c-d755b19e8900" />
+![parvarajapuram png](https://github.com/user-attachments/assets/4b932792-ca13-4780-b521-d555510dbd28)
+![Uploading map.png.png…]()
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
